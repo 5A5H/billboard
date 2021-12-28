@@ -6,3 +6,5 @@ plugins:
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.15.2"
+
+theme: jekyll-theme-minimal
